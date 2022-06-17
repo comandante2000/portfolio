@@ -15,6 +15,7 @@ export const ProjectList = [
     name: "Ecommerce Website",
     image: Proj2,
     skills: "Html,React,Javascript,Bootstrap",
+    
   },
   {
     name: "Spotify Clone",
@@ -35,5 +36,6 @@ export const ProjectList = [
     name: "School Material",
     image: Proj6,
     skills: "JavaScript,HTML,CSS",
+    href: "https://comandante2000.github.io/module/",
   },
 ];
